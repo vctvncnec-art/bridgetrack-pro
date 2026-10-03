@@ -1,0 +1,6 @@
+{
+  "name": "BridgeTrack Pro - Quản lý Tiến độ Xây dựng Cầu",
+  "description": "Ứng dụng theo dõi tiến độ thi công, quản lý công việc và phân công nhiệm vụ cho dự án xây dựng cầu kết nối trực tiếp với Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
